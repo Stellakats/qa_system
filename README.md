@@ -13,7 +13,7 @@ The system runs as a **FastAPI web service**, and supports **dynamic retriever s
 
 ## **Installation**
 ```sh
-git clone https://github.com/your-repo/qa_system.git
+git clone https://github.com/Stellakats/qa_system.git
 cd qa_system
 make install
 ```
