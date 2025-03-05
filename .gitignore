@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore dependency files
+poetry.lock
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore built files
+build/
+dist/
+
+t5_squad2/
+wandb/
+retriever_cache.pkl
+.cache
+./chroma_db
+.json
